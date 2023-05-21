@@ -1,0 +1,9 @@
+# dir
+/dataset
+/save_model
+
+# file
+*.npy
+*.idea
+*.pyc
+```
